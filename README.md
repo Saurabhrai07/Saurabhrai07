@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhrai07&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhrai07" /> </p>
 
 
-- 🔭 I’m currently working on **Deep Learning Projects**
+- 🔭 I’m currently working on **Projects based on Deep Learning and Machine Learning Technologies**
 
 - 🌱 I’m currently learning **Tensorflow, Keras, Opencv and other Deep Learning libraries**
 
