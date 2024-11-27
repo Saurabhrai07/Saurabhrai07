@@ -14,7 +14,7 @@
 
 * **Programming languages**: Python, Java, JavaScript
 * **Web Development**: HTML, CSS and  Javascript
-* **Frameworks**: TensorFlow, Keras, OpenCV, Numpy, Pandas
+* **Frameworks**: TensorFlow, Keras, OpenCV, Numpy, Pandas, Tkinter
 * **Databases**: MySQL, Oracle
 * **Tools**: Git, GitHub, VS-Code,
 
