@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Rai</h1>
-<h3 align="center">Final Year Student from Jain University, Bengaluru</h3>
+<h3 align="center"> CSE-Part 4 | Jain University | Bengaluru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhrai07&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhrai07" /> </p>
 
