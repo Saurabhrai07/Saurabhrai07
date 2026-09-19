@@ -1,8 +1,14 @@
+<!-- ===================== HEADER ===================== -->
+
 <h1 align="center">Hi 👋, I'm Saurabh Rai</h1>
 
 <h3 align="center">
-SAP Security & GRC | Computer Science Engineer | AI/ML & Deep Learning
+Computer Science & Engineering Student • AI/ML • Deep Learning • Computer Vision
 </h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saurabhrai07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/saurabh-rai-a321a7214">
@@ -13,277 +19,262 @@ SAP Security & GRC | Computer Science Engineer | AI/ML & Deep Learning
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saurabhrai07&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
----
+<!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science Engineer with professional experience in
-**SAP Security and SAP GRC**, with a technical background spanning
-**Artificial Intelligence, Machine Learning, Deep Learning and Computer Vision**.
+🎓 **4th Year Computer Science & Engineering Student** at **JAIN (Deemed-to-be University)**
 
-I enjoy working at the intersection of **enterprise technology, security
-and intelligent systems**, with hands-on experience in developing
-machine learning and computer vision projects.
+🤖 Passionate about **Artificial Intelligence, Machine Learning & Deep Learning**
 
-- 🔐 Professional experience in **SAP Security & SAP GRC**
-- 🤖 Strong interest in **AI, Machine Learning & Deep Learning**
-- 🧠 Experience with **CNN-based Deep Learning models**
-- 👁️ Hands-on experience with **Computer Vision & OpenCV**
-- 🐍 Python development and data processing
-- 🗄️ Database knowledge including **MySQL & DBMS**
-- 🌐 Foundation in **Computer Networks**
-- 🔧 Git, GitHub and software development tools
-- 📚 Final-year research project in **CCTV Anomaly Detection**
-- 🚀 Interested in **SAP Security, Cybersecurity, AI/ML and Enterprise Technology**
+👁️ Interested in **Computer Vision, Image Processing & Video Analysis**
 
----
+🐍 Building projects using **Python and Deep Learning frameworks**
 
-## 🔐 SAP Security & GRC
+🧠 Exploring **CNNs, Machine Learning models and intelligent systems**
 
-My professional experience includes working with concepts related to:
+💻 Interested in developing practical solutions through **software and AI**
 
-- SAP Security Administration
-- SAP GRC
-- User & Role Management
-- Authorization & Access Management
-- Role-Based Access Control
-- Segregation of Duties (SoD)
-- Access Risk Management
-- User Provisioning
-- IT General Controls
-- Enterprise Security & Compliance
+📚 Currently learning, building and experimenting with new technologies
 
----
+🚀 Always curious about how technology can solve real-world problems
 
-## 🧠 AI / Machine Learning
 
-My academic and project experience includes:
+<!-- ===================== WHAT I WORK WITH ===================== -->
 
-- Artificial Intelligence
+## 🧠 What I Work With
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Artificial Intelligence
+
 - Machine Learning
 - Deep Learning
-- Convolutional Neural Networks (CNN)
+- Convolutional Neural Networks
 - Computer Vision
 - Image Classification
 - Video Analysis
+- Model Training & Validation
 - Data Preprocessing
 - Data Augmentation
-- Model Training & Validation
-- Performance Evaluation
 
----
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Computer Science
+
+- Python Programming
+- Java
+- JavaScript
+- Data Structures & Algorithms
+- DBMS
+- MySQL
+- Computer Networks
+- Web Development
+
+</td>
+</tr>
+</table>
+
+
+<!-- ===================== PROJECTS ===================== -->
 
 ## 🚀 Featured Projects
 
-### 🎥 Anomaly Detection in CCTV Footage Using Deep Learning & Computer Vision
+### 🎥 Anomaly Detection in CCTV Footage
+#### *Deep Learning & Computer Vision*
 
-**Final Year Research Project | B.Tech Computer Science & Engineering**
+My **final-year B.Tech research project** focused on developing an automated system for detecting unusual activities in CCTV footage using Deep Learning and Computer Vision. :contentReference[oaicite:1]{index=1}
 
-Developed a research-based approach for automated anomaly detection in
-CCTV footage using Deep Learning and Computer Vision.
+**Key areas explored:**
 
-The proposed system focuses on identifying unusual patterns and suspicious
-activities in video footage and enabling faster responses to potential
-security threats.
+- 🧠 Convolutional Neural Networks (CNN)
+- 🔄 Recurrent Neural Networks (RNN)
+- ⏱️ LSTM for temporal sequence analysis
+- 🎯 Transfer Learning
+- 👁️ Attention Mechanisms
+- 🎞️ Video & Frame Processing
+- 📊 Model Training & Validation
+- 📈 Precision, Recall & F1-Score
+- 🔍 Confusion Matrix & Error Analysis
 
-#### 🔬 Key Areas
+The research explores combining spatial feature extraction from CNNs with temporal modelling through RNN-based approaches to distinguish normal and anomalous events. :contentReference[oaicite:2]{index=2}
 
-- CNN-based spatial feature extraction
-- RNN/LSTM-based temporal sequence analysis
-- Video frame and clip processing
-- Data preprocessing and augmentation
-- Transfer Learning
-- Attention mechanisms
-- Model training and validation
-- Precision, Recall and F1-score
-- Confusion Matrix and error analysis
+**Potential applications:**
 
-#### 🎯 Potential Applications
+`Security & Surveillance` • `Industrial Monitoring` • `Retail & Commercial Spaces`
 
-- Security & Surveillance
-- Industrial Monitoring
-- Retail & Commercial Spaces
-- Restricted-area monitoring
-- Suspicious activity detection
 
 ---
 
-### 😊 EmotionSenseAI — Real-Time Emotion Detection
+### 😊 EmotionSenseAI
+#### *Real-Time Emotion Detection*
 
-A Deep Learning and Computer Vision project for detecting human emotions
-from facial expressions in real time.
+A Deep Learning and Computer Vision project designed to detect human emotions from facial expressions in real time.
 
-**Technologies:** Python, TensorFlow, Keras, CNN, OpenCV
+**Technologies:**
 
-- Facial detection using Haar Cascade
-- 48×48 grayscale image processing
-- CNN-based emotion classification
-- Data augmentation
-- Real-time prediction using OpenCV
+`Python` `TensorFlow` `Keras` `CNN` `OpenCV`
 
----
+**Highlights:**
 
-### 👤 Face Recognition Attendance Management System
+- 🎯 Facial emotion classification
+- 👁️ Face detection using Haar Cascade
+- 🖼️ 48×48 grayscale image processing
+- 🧠 CNN-based prediction
+- 🔄 Data augmentation
+- 🎥 Real-time prediction using OpenCV
 
-A Python and OpenCV based attendance management application using
-face recognition.
-
-- Face detection and recognition
-- Student registration
-- Automated attendance
-- GUI using Tkinter
-- Attendance data management
 
 ---
 
-## 🛠️ Languages & Tools
+### 👤 Face Recognition Attendance System
 
-<p align="left">
+A Python-based attendance management system using face recognition and OpenCV.
 
-<!-- Python -->
+**Features:**
+
+- 👤 Face detection & recognition
+- 📝 Student registration
+- 📅 Automated attendance
+- 🖥️ GUI using Tkinter
+- 📊 Attendance data management
+
+
+<!-- ===================== TECH STACK ===================== -->
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+
 <a href="https://www.python.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-width="45" height="45" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
 </a>
 
-<!-- Java -->
 <a href="https://www.java.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-width="45" height="45" alt="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
 </a>
 
-<!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-width="45" height="45" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
 </a>
 
-<!-- TensorFlow -->
 <a href="https://www.tensorflow.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
-width="45" height="45" alt="TensorFlow"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/>
 </a>
 
-<!-- Keras -->
-<a href="https://keras.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg"
-width="45" height="45" alt="Keras"/>
+<a href="https://keras.io">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="50" height="50" alt="Keras"/>
 </a>
 
-<!-- OpenCV -->
-<a href="https://opencv.org/">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-width="45" height="45" alt="OpenCV"/>
+<a href="https://opencv.org">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" height="50" alt="OpenCV"/>
 </a>
 
-<!-- NumPy -->
-<a href="https://numpy.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
-width="45" height="45" alt="NumPy"/>
+<a href="https://numpy.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
 </a>
 
-<!-- Pandas -->
-<a href="https://pandas.pydata.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
-width="45" height="45" alt="Pandas"/>
+<a href="https://pandas.pydata.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
 </a>
 
-<!-- Scikit Learn -->
-<a href="https://scikit-learn.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-width="45" height="45" alt="Scikit Learn"/>
+<a href="https://scikit-learn.org">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="Scikit Learn"/>
 </a>
 
-<!-- MySQL -->
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-width="45" height="45" alt="MySQL"/>
+<a href="https://www.mysql.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
 </a>
 
-<!-- Oracle -->
-<a href="https://www.oracle.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-width="45" height="45" alt="Oracle"/>
+<a href="https://www.oracle.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle"/>
 </a>
 
-<!-- HTML -->
 <a href="https://www.w3.org/html/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-width="45" height="45" alt="HTML"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"/>
 </a>
 
-<!-- CSS -->
 <a href="https://www.w3.org/Style/CSS/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-width="45" height="45" alt="CSS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"/>
 </a>
 
-<!-- Git -->
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-width="45" height="45" alt="Git"/>
+<a href="https://git-scm.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
 </a>
 
-<!-- GitHub -->
-<a href="https://github.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-width="45" height="45" alt="GitHub"/>
+<a href="https://github.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
 </a>
 
-<!-- VS Code -->
-<a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-width="45" height="45" alt="VS Code"/>
+<a href="https://code.visualstudio.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
 </a>
 
 </p>
 
----
+
+<!-- ===================== GITHUB STATS ===================== -->
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saurabhrai07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhrai07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhrai07&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhrai07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
+<!-- ===================== CONNECT ===================== -->
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/saurabh-rai-a321a7214">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
 </a>
 
-<a href="https://leetcode.com/saurabhrai07">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-width="40" height="40"/>
+&nbsp;&nbsp;
+
+<a href="https://www.leetcode.com/saurabhrai07">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.hackerrank.com/21btrcs069">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://instagram.com/saurabhraiiii">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://twitter.com/saurabhraiiiii">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
 </a>
 
 </p>
 
----
+
+<!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-<b>Learning • Building • Securing • Innovating 🚀</b>
+  <br>
+  <b>💻 Code • 🤖 Learn • 🧠 Build • 🚀 Innovate</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
 </p>
