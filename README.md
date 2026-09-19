@@ -236,32 +236,19 @@ A Python-based attendance management system using face recognition and OpenCV.
 ## 🌐 Connect With Me
 
 <p align="left">
-
 <a href="https://linkedin.com/in/saurabhraiii">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
 </a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.leetcode.com/saurabhrai07">
+&nbsp;&nbsp;<a href="https://www.leetcode.com/saurabhrai07">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
 </a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com/21btrcs069">
+&nbsp;&nbsp;<a href="https://www.hackerrank.com/21btrcs069">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/>
 </a>
-
-&nbsp;&nbsp;
-
-<a href="https://instagram.com/saurabhraiiii">
+&nbsp;&nbsp;<a href="https://instagram.com/saurabhraiiii">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
 </a>
-
-&nbsp;&nbsp;
-
-<a href="https://twitter.com/saurabhraiiiii">
+&nbsp;&nbsp;<a href="https://twitter.com/saurabhraiiiii">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
 </a>
 
