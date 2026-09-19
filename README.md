@@ -220,18 +220,23 @@ A Python-based attendance management system using face recognition and OpenCV.
 
 <!-- ===================== GITHUB STATS ===================== -->
 
+<!-- ===================== GITHUB STATS ===================== -->
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhrai07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=saurabhrai07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="Saurabh Rai's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhrai07&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhrai07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    alt="Saurabh Rai's Top Languages"
+  />
 </p>
-
-
-<!-- ===================== CONNECT ===================== -->
 
 ## 🌐 Connect With Me
 
