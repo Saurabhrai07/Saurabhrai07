@@ -218,7 +218,7 @@ A Python-based attendance management system using face recognition and OpenCV.
 </p>
 
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== GITHUB STREAK ===================== -->
 
 ## 🔥 GitHub Streak
 
@@ -227,6 +227,23 @@ A Python-based attendance management system using face recognition and OpenCV.
 </p>
 
 ---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="./profile/stats.svg" 
+    height="180"
+    alt="Saurabh Rai's GitHub Stats"
+  />
+  <img 
+    src="./profile/top-langs.svg" 
+    height="180"
+    alt="Saurabh Rai's Top Languages"
+  />
+</p>
 
 <p align="left">
 <a href="https://linkedin.com/in/saurabhraiii">
